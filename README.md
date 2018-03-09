@@ -1,4 +1,4 @@
-## Requirement:
+## Requirements:
     - tensorflow v1.5
     - sklearn
     - numpy
