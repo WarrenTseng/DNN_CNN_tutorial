@@ -1,2 +1,9 @@
-# DNN_CNN_tutorial
-for NTU BIME Lab-301
+## Requirement:
+    - tensorflow v1.5
+    - sklearn
+    - numpy
+    - matplotlib.pyplot
+<br>
+<br>
+There are some figures to help understanding the network, such as:
+![png](./imgs/CNN_ALL_mnist.png)
