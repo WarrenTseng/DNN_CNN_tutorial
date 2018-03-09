@@ -5,5 +5,5 @@
     - matplotlib.pyplot
 <br>
 <br>
-There are some figures to help understanding the network, such as: <br>
-![](./imgs/CNN_ALL_mnist.png)
+There are some figures to help understanding the network, such as <br>
+![png](./imgs/CNN_ALL_mnist.png)
