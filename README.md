@@ -1,3 +1,6 @@
+## DNN and CNN tutorials
+These were neural network tutorials for NTU BIME lab-301
+
 ## Requirements:
     - tensorflow v1.5
     - sklearn
@@ -8,3 +11,4 @@
 There are some figures to help understanding the network, such as <br>
 <br>
 <img src="./imgs/CNN_ALL_mnist.png" width="90%" height="90%">
+<img src="./imgs/DNN_ALL_mnist.png" width="90%" height="90%">
