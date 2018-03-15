@@ -2,6 +2,7 @@
 These were neural network tutorials for NTU BIME lab-301
 
 ## Requirements:
+    - python 3.5
     - tensorflow v1.5
     - sklearn
     - numpy
