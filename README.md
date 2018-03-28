@@ -1,4 +1,4 @@
-## DNN and CNN tutorials
+## Simple deep learning tutorials
 These were neural network tutorials for NTU BIME lab-301
 
 ## Requirements:
