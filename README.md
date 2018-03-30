@@ -1,5 +1,5 @@
 ## Simple deep learning tutorials
-These were neural network tutorials for NTU BIME lab-301
+These are neural network tutorials for NTU BIME lab-301 (2018)
 
 ## Requirements:
     - python 3.5
